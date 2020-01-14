@@ -1,0 +1,14 @@
+Error summary: The network path was not found - Tuesday, January 14, 2020 1:02:16 PM
+Error details:
+	Error in file: C:\Assessment\Manishankar\ProductStore_Manishankar\Derivco_01-master\Api\InventoryServices\InventoryServices\Repository\Classes\ProductRepository.cs
+	Method name: GetAll
+	Error at line number : 38
+	At column: 17
+
+Error summary: The network path was not found - Tuesday, January 14, 2020 1:03:35 PM
+Error details:
+	Error in file: C:\Assessment\Manishankar\ProductStore_Manishankar\Derivco_01-master\Api\InventoryServices\InventoryServices\Repository\Classes\ProductRepository.cs
+	Method name: MoveNext
+	Error at line number : 62
+	At column: 17
+
